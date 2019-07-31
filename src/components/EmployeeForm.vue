@@ -69,7 +69,7 @@ export default {
       this.submitting = false;
 
       // put input( or user ) focus on name filed
-      this.$refs.first.focus();
+      //this.$refs.first.focus();
 
     },
     clearStatus() {
